@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/mousearea/ResizeArea.qml</file>
+        <file>qml/window/sysbtn/SysSubBtn.qml</file>
+        <file>qml/window/MainWindow.qml</file>
+        <file>qml/window/StatusBar.qml</file>
+        <file>qml/window/SysBtn.qml</file>
+        <file>qml/window/TitleBar.qml</file>
+        <file>qml/window/WindowFrame.qml</file>
+        <file>main.qml</file>
+        <file>qml/button/Button.qml</file>
+        <file>qml/text/SysText.qml</file>
+        <file>qml/tabwidget/TabWidget.qml</file>
+        <file>qml/tabwidget/TabWidgetItem.qml</file>
+    </qresource>
+</RCC>
